@@ -5,7 +5,7 @@ How to run this project :
 
 1- Download/clone the entire project and open it in IDE
 
-    https://github.com/jestinmwilson/Payment-Gateway-Integration.git
+    https://github.com/jestinmwilson/Weather-App.git
  
 2- install the virtual environment
 
